@@ -1,0 +1,621 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+ 
+    /* header start  */
+    header {
+        padding: 20px 0 15px;
+         }
+     .menu ul li {
+         margin: 0 32px;
+     }
+      
+     .input {
+         margin-left: 30px;
+      }
+      .btn_get {
+         margin-left: 15px;
+      }
+      .border_h {
+        padding: 0 0 15px;
+    }
+     /* header end  */
+      /* banner end*/
+      .banner {
+        padding: 10px 0;
+    }
+    .b_box {
+        padding: 10px 0px;
+    }
+    .b_h2 {
+        padding: 0;
+        margin-bottom: 10px;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .b_p{
+        padding-bottom: 20px;
+    }
+    .started {
+         margin: 0 auto;
+         margin-bottom: 20px;
+         width: 100%;
+         height: 110px;
+         border-radius: 23px;
+        }
+        .s_input .c_input {
+            padding: 15px 54px 15px;
+        }
+    .s_btn {
+       width: 115px;
+        margin: 0px 74px;
+        }
+        .border_b {
+            padding: 30px 0 0px;}
+   .bi_text{
+        padding-top: 30px;
+    }
+    .ban_img{
+        padding-top: 15px;
+
+    }
+    .ba {
+        margin: 17px 15px 0;
+    }
+/* banner end*/
+/* about start*/
+.about {
+    padding: 30px 12px;
+}
+.a_link {
+    margin-top: 30px;
+}
+.ab_h1 {
+    margin-bottom: 30px;
+}
+.about_text {
+    margin: 30px 0 0 0;
+    text-align: center;
+}
+
+.about_img {
+    margin: 40px 0 0 0;
+}
+ 
+/* about end */
+ /* proud start*/
+ .proud{
+    padding: 30px 0;
+}
+ 
+.f_proud {
+    margin-top: 30px;
+}
+.p_img {
+    padding: 20px 0 10px 10px;
+}
+.p_h2 {
+    padding: 0 0 10px 10px;
+}
+.p_p {
+    padding: 0 11px 15px 10px;
+}
+.p_h1 h1 {
+    font-size: 25px;
+}
+/* proud end  */
+/* aspire start */
+.s_input .as_input {
+    padding: 15px 70px 15px;
+}
+.a_btn {
+    margin: 0px 90px;
+}
+.as_h1 {
+    margin-top: 40px;
+}
+.as_p {
+    margin: 0 ;
+}
+.as_cradit {
+    padding-bottom: 30px;}
+/* aspire end  */ 
+/* d_team start  */
+.d_team{
+    padding: 35px 0 30px;
+} 
+.d_p {
+    margin: 0 25px;
+}
+
+.d_h1 h1 {
+    margin: 15px 0;
+}
+.d_p2 {
+    margin: 0 10px;
+}
+.work_content {
+    margin-top: 35px;
+    padding: 0 15px;
+}
+.work_footer {
+    padding: 10px 15px;
+}
+.work_name {
+    font-size: 16px;
+}
+.our_team {
+    padding: 35px 0;
+}
+.join_h2 {
+    text-align: center;    
+    margin: 0 0 10px;
+}
+.join_text {
+    margin: 0 10px;
+    text-align: center;    
+
+}
+/* d_team end */  
+/* faq start  */
+.faq {
+    padding: 30px 0;
+}
+.faq_f {
+    padding-top: 20px;
+}
+.faq_item {
+    margin-bottom: 15px;
+}
+/* faq end*/
+/* footer_top start*/
+.footer_top {
+    padding: 30px 0 0;
+}
+.ft_details{
+    margin-left:0 ;
+    text-align: center;
+}
+.ft_links {
+    text-align: center;
+}
+.ft_links ul li {
+    margin-bottom: 15px;
+}
+.ft_details h2 {
+    margin-bottom: 15px;
+}
+.ft_details p {
+    padding: 0 25px;
+}
+/* footer_top end*/
+/* footer start*/
+footer{
+    padding-top: 30px;
+    padding-bottom:30px;
+}
+.ft_b {
+    margin-top: 0px;
+}
+.f_copy, .f_privacy {
+    text-align: center;
+}
+/* footer end */
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   
+    /* header start  */
+    header {
+       padding: 25px 0 15px;
+        }
+    .menu ul li {
+        margin: 0 32px;
+    }
+     
+    .input {
+        margin-left: 30px;
+     }
+     .btn_get {
+        margin-left: 15px;
+     }
+     .border_h {
+        padding: 0 0 15px;
+    }
+    /* header end  */
+     /* banner end*/
+     .banner {
+        padding: 15px 0;
+    }
+    .b_box {
+        padding: 15px 0px;
+    }
+    .b_h2 {
+        padding: 0;
+        margin-bottom: 15px;
+        font-size: 29px;
+        line-height: 40px;
+    }
+    .started {
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+    .border_b {
+        padding: 30px 0 0px;
+    }
+    .bi_text{
+        padding-top: 40px;
+    }
+    .ban_img{
+        padding-top: 25px;
+
+    }
+    .ba {
+        margin: 10px 20px 0;
+    }
+/* banner end*/
+/* about start*/
+ 
+.a_link {
+    margin-top: 30px;
+}
+.ab_h1 {
+    margin-bottom: 30px;
+}
+.about_text {
+    margin: 40px 0 0 0;
+}
+
+.about_img {
+    margin: 40px 0 0 0;
+}
+.about {
+    padding-bottom: 40px;
+}
+/* about end */
+ /* proud start*/
+.proud{
+    padding: 40px 0;
+}
+ 
+.f_proud {
+    margin-top: 30px;
+}
+.p_img {
+    padding: 40px 0 20px 40px;
+}
+.p_h2 {
+    padding: 0 0 10px 40px;
+}
+.p_p {
+    padding: 0 0 30px 30px
+}
+/* proud end  */
+/* aspire start */
+ 
+.as_h1 {
+    margin-top: 40px;
+}
+.as_p {
+    margin: 0 ;
+}
+.as_cradit {
+    padding-bottom: 30px;}
+/* aspire end  */   
+/* d_team start  */
+.d_team{
+    padding: 45px 0 40px;
+} 
+.d_p {
+    margin: 0 75px;
+}
+.d_h1 h1 {
+    margin: 15px 0;
+}
+.d_p2 {
+    margin: 0 35px;
+}
+.work_content {
+    margin-top: 40px;
+}
+.work_footer {
+    padding: 12px 25px;
+}
+.work_name {
+    font-size: 17px;
+}
+.our_team {
+    padding: 35px 0;
+}
+.join_h2 {
+    margin: 0px 20px 10px;
+}
+.join_text {
+    margin: 0px 20px;
+}
+/* d_team end */
+/* faq start  */
+.faq {
+    padding: 40px 0;
+}
+.faq_item{
+    margin-bottom: 15px;
+}
+.faq_f {
+    padding-top: 30px;
+}
+/* faq end*/
+/* footer_top start*/
+.footer_top {
+    padding: 30px 0 0;
+}
+.ft_details{
+    margin-left:0 ;
+    text-align: center;
+}
+.ft_links {
+    text-align: center;
+}
+.ft_links ul li {
+    margin-bottom: 15px;
+}
+.ft_details h2 {
+    margin-bottom: 15px;
+}
+/* footer_top end*/
+/* footer start*/
+footer{
+    padding-top: 30px;
+    padding-bottom:30px;
+}
+.f_copy, .f_privacy {
+    text-align: center;
+}
+/* footer end */
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header start  */
+    header {
+        padding: 30px 0 20px;
+        }
+    .menu ul li {
+        margin: 0 32px;
+    }
+    
+    .input {
+        margin-left: 30px;
+     }
+     .border_h {
+        padding: 0 0 20px;
+    }
+    /* header end  */
+    /* banner end*/
+    .banner {
+        padding: 20px 0;
+    }
+    .b_box {
+        padding: 20px 0px;
+    }
+    .b_h2 {
+        padding: 0;
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .border_b {
+        padding: 40px 0 0px;
+    }
+    .bi_text{
+        padding-top: 70px;
+    }
+   .ban_img {
+        padding-top: 35px;
+    }
+.ba {
+    margin: 0 10px 0;
+}
+/* banner end*/
+/* about start*/
+.a_link {
+    margin-top: 60px;
+}
+.about_text {
+    margin: 70px 0 0 0;
+}
+
+.about_img {
+    margin: 50px 0 0 0;
+}
+.about {
+    padding-bottom: 70px;}
+/* about end */
+/* proud start*/
+.proud{
+    padding: 70px 0;
+}
+.p_h1 h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.f_proud{
+    margin-top: 40px;
+}
+
+/* proud end  */
+/* aspire start */
+ 
+.as_h1 {
+    margin-top: 40px;
+}
+.as_p {
+    margin: 0 50px;
+}
+.as_cradit {
+    padding-bottom: 40px;}
+/* aspire end  */
+/* d_team start  */
+.d_team{
+    padding: 85px 0 70px;
+} 
+.d_p {
+    margin: 0 125px;
+}
+.d_p2 {
+        margin: 0 77px;
+}
+.work_content {
+        margin-top: 50px;
+}
+.work_footer {
+    padding: 15px 25px;
+}
+.work_name {
+    font-size: 17px;
+}
+.our_team {
+    padding: 35px 0;
+}
+.join_h2 {
+    margin: 0px 20px 10px;
+}
+.join_text {
+    margin: 0px 20px;
+}
+/* d_team end */
+/* faq start  */
+.faq {
+    padding: 70px 0;
+}
+.faq_f {
+    padding-top: 40px;
+}
+/* faq end*/
+/* footer_top start*/
+.footer_top {
+    padding: 50px 0 0;
+}
+.ft_details{
+    margin-left:0 ;
+    text-align: center;
+}
+.ft_links {
+    text-align: center;
+}
+/* footer_top end*/
+/* footer start*/
+footer{
+    padding-bottom: 50px;
+}
+.f_copy, .f_privacy {
+    text-align: center;
+}
+/* footer end */
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /* header start  */
+
+    header {
+    padding: 30px 0 20px;
+    }
+    .menu ul li {
+        margin: 0 15px;
+    }
+    .input {
+        margin-left: 15px;
+    }
+    .btn_get {
+        margin-left: 15px;
+    }  
+    
+    /* header end*/
+    /* banner start*/
+    .b_h2 {
+        padding: 0;
+        font-size: 54px;
+    }
+    .ba {
+        margin: 0 40px 0;
+    }
+/* banner end*/
+/* proud start*/
+.p_h1 h1 {
+    font-size: 45px;
+}
+
+.p_img {
+    padding: 40px 95px 20px 30px;
+}
+.p_h2 {
+    padding: 0 0px 10px 30px;}
+.p_p {
+    padding: 0 20px 30px 30px
+}
+/* proud end  */
+/* aspire start */
+
+.as_p {
+    margin: 0 80px;
+}
+/* aspire end  */
+/* d_team start  */
+
+.d_p {
+    margin: 0 60px;}
+.d_p2 {
+        margin: 0 120px;
+}
+.work_footer {
+    padding: 12px 10px;
+}
+/* d_team end */
+.f_copy{
+    margin: 0 0 0 -32px;
+
+}
+
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /* header end */ 
+    .input {
+        margin-left: 110px;
+    }
+   /* header end */
+
+ }
+
+ /* Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px)  { 
+/* banner end*/
+
+/* banner end*/
+/* about end */
+.about_img {
+    margin: 100px 0px 0 95px;
+}
+/* about end */
+/* proud start  */
+.p_h1 h1 {
+    font-size: 60px;
+}
+.p_img {
+    padding: 40px 170px 20px 40px;
+}
+/* proud end*/
+/* footer_top start  */
+
+.ft_details{
+    margin-left:110px ;
+}
+/* footer_top end  */
+
+}
+
+ 
